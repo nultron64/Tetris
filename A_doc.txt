@@ -1,0 +1,2 @@
+python code in ./CodeMake/  is used to create tetrimino blocks from strings (to array form).
+
